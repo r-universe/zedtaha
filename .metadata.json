@@ -1,5 +1,9 @@
 [
   {
+    "package": "dynpanel",
+    "oncran": true
+  },
+  {
     "package": "nardl",
     "oncran": true
   }
