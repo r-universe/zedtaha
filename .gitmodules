@@ -3,13 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dtp"]
+	path = dtp
+	url = https://github.com/cran/dtp
+	shallow = true
+	registered = true
 [submodule "dynpanel"]
 	path = dynpanel
 	url = https://github.com/zedtaha/dynpanel
 	shallow = true
 	registered = true
+[submodule "ivprobit"]
+	path = ivprobit
+	url = https://github.com/cran/ivprobit
+	shallow = true
+	registered = true
 [submodule "nardl"]
 	path = nardl
 	url = https://github.com/zedtaha/nardl
+	shallow = true
+	registered = true
+[submodule "Qardl"]
+	path = Qardl
+	url = https://github.com/cran/Qardl
 	shallow = true
 	registered = true
