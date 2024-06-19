@@ -2,18 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Qardl"]
-	path = Qardl
-	url = https://github.com/cran/Qardl
 [submodule "dtp"]
 	path = dtp
 	url = https://github.com/cran/dtp
 [submodule "dynpanel"]
 	path = dynpanel
 	url = https://github.com/zedtaha/dynpanel
-[submodule "ivprobit"]
-	path = ivprobit
-	url = https://github.com/cran/ivprobit
 [submodule "nardl"]
 	path = nardl
 	url = https://github.com/zedtaha/nardl
