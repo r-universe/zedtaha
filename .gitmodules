@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FCUSUM"]
+	path = FCUSUM
+	url = https://github.com/zedtaha/fcusum
 [submodule "dtp"]
 	path = dtp
 	url = https://github.com/cran/dtp
